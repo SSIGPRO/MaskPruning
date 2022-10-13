@@ -28,4 +28,5 @@ The result is a handy collection of functions, all encompassed in the class "Mod
 
 ## References
 [1] https://github.com/cagladbahadir/LOUPE
+
 [2] C. D. Bahadir, A. Q. Wang, A. V. Dalca and M. R. Sabuncu, "Deep-Learning-Based Optimization of the Under-Sampling Pattern in MRI," in IEEE Transactions on Computational Imaging, vol. 6, pp. 1139-1152, 2020, doi: 10.1109/TCI.2020.3006727.
