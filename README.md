@@ -1,4 +1,4 @@
-# TurboMaskPruning
+# MaskPruning
 
 ## General Description
 We propose a novel pruning technique based on trainable probability masks that, when binarized, select the elements of the network to prune.
